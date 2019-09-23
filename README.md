@@ -10,7 +10,7 @@ Quando o usuário acessa o App, a model acessa via repositório o banco de dados
 ## Telas
 
 A tela principal foi desenvolvida a partir do mockup, a tela de entrada(SplashScreen) e a tela de detalhes do filme foram desenvolvidas durante o desafio.
-![Alt Text](https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-224720.png?raw=true "Lista de Filmes" {width=250px height=540px})
+![Alt Text](https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-224720.png "Lista de Filmes" {width=250px height=540px})
 
 ## Funcionalidades acrescidas.
 
