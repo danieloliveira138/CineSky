@@ -15,7 +15,7 @@ A tela principal foi desenvolvida a partir do mockup, a tela de entrada(SplashSc
   <img src="https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-225040.png" width="200">
   <img src="https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-224720.png" width="200">
   <img src="https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-224859.png" width="200">
-  <img src="https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-225147.png" width="200">
+  <img src="https://github.com/danieloliveira138/CineSky/blob/master/device-2019-09-22-234151.png" width="200">
 </p>
 
 ## Funcionalidades acrescidas.
