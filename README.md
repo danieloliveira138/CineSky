@@ -22,10 +22,7 @@ A tela principal foi desenvolvida a partir do mockup, a tela de entrada(SplashSc
 
 Além do Repositório local para melhorar a experiência do usuário e diminuir os tempos das chamadas na API, inclui um botão para que o usuário possa curtir os filmes, os filmes curtidos são salvos no banco e tambem são consumidos de forma assíncrona, sem prejuízo na experiência do usuário.
 
-## Libs utilizadas.
-
-As libs que eu utilizei são um pouco do que eu sempre carrego pra todos os projetos e no fundo do coração, faltou muita coisa, mas já tem muitas aí que me salvaram inúmera vezes.
-### Libs:
+## Libs utilizadas:
 1. Retrofit
 2. OkHTTP
 3. Gson
