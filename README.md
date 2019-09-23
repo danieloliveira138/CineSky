@@ -42,3 +42,4 @@ As libs que eu utilizei são um pouco do que eu sempre carrego pra todos os proj
 ## Problemas encontrados.
 Notei que havia erro na resposta de algumas imagens, acompanhei o logcat e as respostas da API e verifiquei que o link, na região do formato e tamanho da foto, está com problemas. Não sabia se isso fazia parte do desafio, pensei que pudesse ser uma forma de saber se eu me previni quanto a esses erros ou era um simples tentativa de criar um bug, pra saber se eu tinha testado o APP.
 Corrigi o problema das fotos e fiz alguns testes untitários para verificar se o link vai sempre sair corretamente.
+szd
