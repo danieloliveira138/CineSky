@@ -1,6 +1,6 @@
 # Desafio Sky
 
-O desafio proposto foi realizado com base no [mockup](www.google.com) e [API](http://www.google.com), entregue pela Analista de Recrutamento [Camila Conde](camila.conde@techmahindra.com).
+O desafio proposto foi realizado com base no [mockup](https://drive.google.com/open?id=0B2nvjhk7Sk5hbGtnNHFYNkIxLWNrWFpnWnk2M0d1VmVIX1pr) e [API](https://sky-exercise.herokuapp.com/api/Movies), entregue pela Analista de Recrutamento [Camila Conde](camila.conde@techmahindra.com).
 
 ## Arquitetura
 
