@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Cine SKY</string>
+  <string name="movie_image">Movie thumbnail from movie list</string>
+  <string name="movie_image_toolbar">Movie Image in Toolbar expanded</string>
+  <string name="image_backdrop_viewpager">Image backdrop viewpager</string>
+  <string name="application_logo">Application logo</string>
+  <string name="sim">Sim</string>
+  <string name="nao">Não</string>
+  <string name="uma_selecao_de_filmes">Uma seleção de filmes imperdíveis:</string>
+</resources>

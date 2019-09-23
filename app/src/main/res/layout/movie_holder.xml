@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_margin="8dp"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content">
+
+  <ImageView
+      android:id="@+id/movieThumb"
+      android:layout_width="match_parent"
+      android:layout_height="250dp"
+      android:layout_marginBottom="8dp"
+      android:contentDescription="@string/movie_image"/>
+
+  <TextView
+      android:id="@+id/movieTitle"
+      android:textColor="#fff"
+      android:fontFamily="sans-serif-light"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"/>
+
+  </LinearLayout>
