@@ -11,8 +11,8 @@
     <application android:allowBackup="true"
                  android:name="com.danieloliveira138.cinesky.MyApplication"
                  android:label="@string/app_name"
-                 android:icon="@mipmap/ic_launcher"
-                 android:roundIcon="@mipmap/ic_launcher_round"
+                 android:icon="@drawable/logo_sky"
+                 android:roundIcon="@drawable/logo_sky"
                  android:supportsRtl="true"
                  android:theme="@style/AppTheme">
 
